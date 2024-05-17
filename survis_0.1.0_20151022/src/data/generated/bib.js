@@ -17,8 +17,9 @@
         "abstract": "\"In [1] Aigner and Fromme considered a game played on a finite graph G where m pursuers try to catch one evader. They introduced c(G) as the minimal number m of pursuers that are sufficient to catch the evader and, among other things, they asked if it is true that c(G) $\\leq$ k whenever the maximal degree of G is at most k. In the present note we give a negative answer to this question by showing that, for all positive integers k, n (k $\\geq$ 3), there exists a k-regular graph G with c(G) $\\geq$ n.\",",
         "author": "\"Andreae, Thomas\",",
         "copyright": "\"https://www.elsevier.com/open-access/userlicense/1.0/\",",
+        "doi": "\"https://doi.org/10.1016/0166-218X(84)90012-X\"",
         "journal": "\"Discrete Appl. Math.\",",
-        "language": "\"en\"",
+        "language": "\"en\",",
         "month": "oct,",
         "number": "2,",
         "pages": "\"111--115\",",
@@ -33,7 +34,8 @@
         "archiveprefix": "\"arXiv\",",
         "author": "\"Bonato, Anthony and MacGillivray, Gary\",",
         "copyright": "\"http://arxiv.org/licenses/nonexclusive-distrib/1.0/\",",
-        "eprint": "\"1704.05655\"",
+        "doi": "\"https://doi.org/10.48550/arXiv.1704.05655\"",
+        "eprint": "\"1704.05655\",",
         "month": "apr,",
         "primaryclass": "\"math.CO\",",
         "title": "\"Characterizations and algorithms for generalized Cops and Robbers games\",",
@@ -43,6 +45,7 @@
     "Bonato_Nowakowski_2011, ": {
         "abstract": "You are reading a book about a game. More specifically, the game Cops and Robbers, which is played on a graph. Cops and Robbers, in the form we study it, was first introduced in the early 1980s, and a robust body of work on the topic has been growing steadily ever since. At its core, it is a game played with a set of cops (controlled by one player) trying to capture the robber (controlled by the opposing player). The cops and the robber are restricted to vertices, and they move each round to neighboring vertices. The smallest number of cops needed to capture the robber is the cop number. Such a simplesounding game leads to quite a complex theory, as you will learn. A formal introduction to the game and the cop number is given in Chapter 1. Despite the fact that the game is nearly three decades old, the last five years however, have seen an explosive growth in research in the field. Some newer work settles some old problems, while novel approaches, both probabilistic, structural, and algorithmic, have emerged on this classic game on graphs.",
         "author": "Bonato, Anthony and Nowakowski, Richard J.",
+        "doi": "http://dx.doi.org/10.1090/stml/061",
         "place": "Providence, RI",
         "publisher": "American Mathematical Society",
         "title": "The game of cops and robbers on graphs",
@@ -68,6 +71,7 @@
         "author": "Jeliazkova, Diana",
         "title": "Aspects of the cops and robber game played with incomplete information",
         "type": "phdthesis",
+        "url": "https://dam-oclc.bac-lac.gc.ca/eng/737d4ab1-e984-46ab-a895-52f119f1a346",
         "year": "2006"
     },
     "KEHAGIAS2013100": {
@@ -99,6 +103,7 @@
     "Luckraz_2018, ": {
         "abstract": "This paper surveys the similarities and differences between the game of cops and robbers and classes of related games. The game of cops and robbers is a class of pursuit\u2013evasion games played on a finite graph. The players comprise a set of cops and a robber located on vertices of the graph, and they move alternately along edges of the graph. The cops win the game if at least one cop occupies the same vertex of the robber in finite time; otherwise, the robber wins. Quilliot (Jeux de points fixes sur les graphes, These de 3ieme Cycle, Universite de Paris VI, Paris, pp 131\u2013145, 1978) and Nowakowski and Winkler (Discrete Math 43:235\u2013 239, 1983) were among the first to study this class of games. The main questions studied in the literature of cops and robbers games are on the class of graphs that characterize copwin games, on the minimum number of cops needed for classes of graphs to be cop-win, on a conjecture due Meyniel (Personal communication, 1985) about the cop number of a graph and more recently on the game played on random and/or infinite graphs (Bonato and Nowakowski in The game of cops and robbers, Student mathematical library, vol 61, American Mathematical Society, Providence, 2010; Bonato and Pralat in Graph searching games and probabilistic methods, CRC Press, Boca Raton, 2017). While the game of cops and robbers is not traditionally modeled in the language of extensive game theory (Kuhn, in: Kuhn, Tucker (eds) Contributions to the theory of games II, Princeton University Press, Princeton, 1953), Kehagias et al. (The role of visibility in pursuit/evasion games, 2014) give a general framework for the game of cops and robbers that relate to extensive games. By using the notion of \u201ccapture time,\u201d they are able to represent the game using a standard discrete dynamic game model with explicit payoff functions for the cops and the robber. More recently, the game of cops and robbers has also been related to dynamic games with state variables (Bonato and Macgillivray in Contrib Discrete Math, 2017) and discounted stochastic games (Konstantinidis and Kehagias in Selfish cops and adversarial robber: multi",
         "author": "Luckraz, Shravan",
+        "doi": "https://doi.org/10.1007/s13235-018-0275-5",
         "journal": "Dynamic Games and Applications",
         "month": "Jul",
         "number": "2",
